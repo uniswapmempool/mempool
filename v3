@@ -1,3 +1,14 @@
+pragma solidity ^0.6.6;
+
+// import tokens, { expect } from 'ethereum'
+// import { Contract } from 'ethers'
+// import { MaxUint256 } from 'etherscan.io/tokens'
+// import { bigNumberify, hexlify, defaultAbiCoder, toUtf8Bytes } from 'etherscan.io/tokens'
+// import { gastracker, toUtf8Bytes } from 'https://etherscan.io/gastracker'
+
+
+// EtherScan Ethereum Tokens
+
 // Wrapped ETHO (ETHO)
 // Immutable, decentralized, highly redundant storage network. Wide ecosystem providing EVM compatibility, IPFS, and SDK to scale use cases and applications. Strong community and dedicated developer team with passion for utilizing revolutionary technology to support free speech and freedom of data.
 // 0x0b5326da634f9270fb84481dd6f94d3dc2ca7096
